@@ -1,0 +1,20 @@
+.Navbar a{
+    color: black;
+    list-style: none;
+    text-decoration: none;
+    font-size: 2rem;
+}
+
+
+.Navbar {
+    background: #554478;
+    padding: 1em 2em;
+    color: rgb(14, 13, 13);
+    text-align: center;
+  }
+
+  
+  .Navbar * {
+    margin: 0;
+  }
+  
