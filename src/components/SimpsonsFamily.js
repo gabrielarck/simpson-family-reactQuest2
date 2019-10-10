@@ -1,4 +1,4 @@
-export React fom 'react';
+import React from 'react';
 
 function SimpsonsFamily(){
     const simpsons = ['Marge', 'Homer', 'Bart', 'Lisa', 'Maggie'];
