@@ -8,6 +8,10 @@
   font-size: 1.2em;
 }
 
+.QuoteCard figcaption {
+  width: 100%;
+}
+
 .QuoteCard img {
   display: flex;
   max-height: 120px;
